@@ -1,4 +1,11 @@
-﻿namespace COMP003A.Assignment2
+﻿/*
+ * Author: Logan Jones
+ * Course: COMP-003A-L01
+ * Purpose: Writing examples of different basic computing processes for Week 2 Assignments. 
+ */
+
+
+namespace COMP003A.Assignment2
 {
     internal class Program
     {
